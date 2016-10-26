@@ -1,4 +1,4 @@
-# Тестовое задание для Font-End Engineer
+# Тестовое задание для Front-End Engineer
 
 ![Test preview](https://raw.github.com/peacedata/frontend-test/master/frontend-test-3.jpg)
 
